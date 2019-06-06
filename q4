@@ -1,0 +1,11 @@
+function findSumOfDifferences(x1, x2, y1, y2) {
+  let dist1 = (x1 - x2);
+  let dist2 = (y1 - y2);
+  return dist1 + dist2;
+}
+
+function xDiff() {
+  return dist1;
+}
+
+xDiff();
